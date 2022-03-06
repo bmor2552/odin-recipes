@@ -6,3 +6,7 @@ The more I practice, the more I will fail, the more I fail, the more I will lear
 *Pauses for dramatic affect and confused stares*
 
 In this project I will be creating a basic, and I mean basic recipe blog site using only HTML. Lets get started !
+
+# What I Have Learned 
+After completing the project, I can say that the basics of git and html are now apart of my memory. 
+The next step will be to implement basic CSS to make the blog site more appealing to the eyes. 
