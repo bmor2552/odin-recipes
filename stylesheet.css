@@ -1,0 +1,19 @@
+*{
+    background-color: goldenrod;
+}
+
+h1{
+    background-color: darkolivegreen;
+    border: black;
+    text-align: center;
+    padding: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+}
