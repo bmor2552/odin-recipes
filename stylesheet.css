@@ -5,7 +5,14 @@
     border-radius: 30px;
 }
 
+.container {
+display: flex 1;
+}
 
+.box-1.box-.box-3{
+    flex-direction: column;
+
+}
 h1{
     background-color: black;
     border: black;
