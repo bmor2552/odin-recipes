@@ -5,6 +5,7 @@
     border-radius: 30px;
 }
 
+
 h1{
     background-color: black;
     border: black;
@@ -15,6 +16,9 @@ h1{
     margin: auto;
 }
 
+.lastp{
+    margin-bottom: 100px;
+}
 p{
     background-color: black;
     color: whitesmoke;
