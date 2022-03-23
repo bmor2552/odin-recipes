@@ -10,3 +10,12 @@ In this project I will be creating a basic, and I mean basic recipe blog site us
 # What I Have Learned 
 After completing the project, I can say that the basics of git and html are now apart of my memory. 
 The next step will be to implement basic CSS to make the blog site more appealing to the eyes. 
+
+#Contact Info
+As I continue to edit the webpage, I have been using the following resources:
+
+1. HTML & CSS Project Tutorial - Build a Recipes Website (https://www.youtube.com/watch?v=-8LTPIJBGwQ)
+
+2. Build a Responsive Website | HTML, CSS Grid, Flexbox & More (https://www.youtube.com/watch?v=p0bGHP-PXD4)
+
+3. Google.com
