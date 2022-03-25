@@ -1,36 +1,96 @@
-body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+/*Reset*/
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+
+/* Navbar*/
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.23);
+    position: sticky;
+    top: 0;
+
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+
+}
+
+.navbar ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar ul a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    transition: all .5s ease;
+}
+
+.navbar ul li a:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0, 0, 10px, white;
+    
+}
+
+/*Main Section*/
+
+#home{
+ display: flex;
+ flex-direction: column;
+}
+
+#home::before{
+    content: " ";
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    background: url('/Users/boimoriba/repos/odin-recipes/mainpageimage.jpg') no-repeat center center/cover;
+    height: 900px;
+    width: 100%;
+    z-index: -1;
+    opacity: .8;
+}
+
+.headings{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    justify-content: center;
+    margin-left: 50%;
+    margin-top: 300px;
 }
 
 h1{
-    margin: 40px;
-}
-
-h4{
-    margin: 40px;
-}
-
-a{
-color: black;   
-text-decoration: none;
-text-align: center;
-background-color: none;
+    text-align: center;
+    padding: 8px;
 }
 
 
 
-a:hover{
-opacity: 0.5;
+/*About Section*/
 
-}
-
-button{
-    background-color: rgba(255, 255, 255, 0.945);
-    border-radius: 100%;
-    border: solid;
-    margin: 40px;
-    padding: 20px;
-    
-
-
+.about-paras {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   /* background-color: white;*/
+   margin-left: 50%;
+    padding: 35px;
+    font-size: large;
+    font-weight: bolder;
+    border: 5px;
 }
