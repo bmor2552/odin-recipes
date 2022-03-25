@@ -1,0 +1,48 @@
+/*Reset*/
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+
+/* Navbar*/
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.35)
+    position: sticky;
+    top: 0;
+
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+
+}
+
+.navbar ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar ul a {
+    text-decoration: none;
+    color: black;
+    padding: 8px 25px;
+    transition: all .5s ease;
+}
+
+.navbar ul li a:hover{
+    color: black;
+    text-decoration: underline;
+    border-bottom: 2px;
+    
+    
+}
