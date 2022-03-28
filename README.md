@@ -19,3 +19,5 @@ As I continue to edit the webpage, I have been using the following resources:
 2. Build a Responsive Website | HTML, CSS Grid, Flexbox & More (https://www.youtube.com/watch?v=p0bGHP-PXD4)
 
 3. Google.com
+
+4. Tutorial Dev (https://www.youtube.com/c/TutorialsDev)
