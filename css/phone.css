@@ -1,0 +1,30 @@
+/*Navbar*/
+.navbar nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+/*Home Landing Page*/
+#home::before{
+    content: " ";
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    background: url('/Users/boimoriba/repos/odin-recipes/mainpageimage.jpg') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: .8;
+}
+
+/* About Paragraph*/
+
+.about section{
+    margin: 0%;
+    padding: 0%;
+    font-size: 12px;
+
+}
+
+/*About Title */
