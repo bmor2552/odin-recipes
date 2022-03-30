@@ -76,7 +76,7 @@ h1{
     position: absolute;
     top: 0%;
     right: 0%;
-    background: url('../images/food-5952237_1920.JPG') no-repeat center center/cover;
+    background: url('./images/food-5952237_1920.JPG') no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
